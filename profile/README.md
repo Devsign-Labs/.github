@@ -2,7 +2,8 @@
 
 Devsign Labs is an innovation workshop where we create interesting million dollar unpatented ideas that can be replicated to help the society in various ways.
 
-Feel free to fork/contribute/replicate some of these ideas into interesting solutions (no need to give credit)
+Feel free to fork/contribute/replicate some of these ideas into interesting solutions (no need to give credit). <br>
+Most implementations will be very rough so the team will try to make sure that they document additional steps you can use to come up with a refined application based on the desired finished solution.
 
 <!--
 
